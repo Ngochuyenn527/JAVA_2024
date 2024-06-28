@@ -1,0 +1,4 @@
+12345
+HELLO WORLD
+199.67
+false

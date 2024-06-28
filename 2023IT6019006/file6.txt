@@ -1,0 +1,7 @@
+Rectangle: 392.0 - 84.0
+Rectangle: 450.0 - 90.0
+Rectangle: 800.0 - 120.0
+Rectangle: 2592.0 - 216.0
+Rectangle: 3200.0 - 240.0
+Rectangle: 5202.0 - 306.0
+Circle: 14102.609421964582 - 420.97341558103227
